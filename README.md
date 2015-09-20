@@ -8,6 +8,11 @@ Since the whole data is rather large and hard for the eyes to parse, you need to
 
 A file's contents will be output in human-readable format and not as a buffer if you specify `contents` to be logged.
 
+## Installation
+Metalsmith-logger can be installed via [npm](https://www.npmjs.com/package/metalsmith-logger):
+
+    npm install metalsmith-logger --save
+
 ## Usage
 Include metalsmith-logger at the point in the metalsmith plug-in chain where you want to see the current metalsmith `files` data. Metalsmith logger can be invoked multiple times in the plug-in chian, e.g. before parsing markdown, after parsing markdown, and after rendering the template in your plug-in chain.
  
