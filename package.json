@@ -1,0 +1,17 @@
+{
+  "name": "metalsmith-logger",
+  "description": "Metalsmith logging for humans",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/franzheidl/metalsmith-logger.git"
+  }
+  "keywords": [
+    "metalsmith",
+    "log",
+    "console",
+    "debug"
+  ],
+  "main": "index.js",
+  "author": "Franz Heidl",
+  "license": "MIT"
+}
