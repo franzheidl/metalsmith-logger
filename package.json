@@ -1,10 +1,11 @@
 {
   "name": "metalsmith-logger",
+  "version": "0.0.1",
   "description": "Metalsmith logging for humans",
   "repository": {
     "type": "git",
     "url": "git://github.com/franzheidl/metalsmith-logger.git"
-  }
+  },
   "keywords": [
     "metalsmith",
     "log",
