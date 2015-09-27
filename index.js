@@ -5,7 +5,7 @@ function plugin(attrs) {
   
   return function(files, metalsmith, done) {
     var data;
-    for (file in files) {
+    for (var file in files) {
       if (files.hasOwnProperty(file)) {
         data = files[file];
         console.log('\n====================')
