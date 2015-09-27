@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-logger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Metalsmith logging for humans",
   "repository": {
     "type": "git",
